@@ -1,0 +1,5 @@
+{
+  "name": "NeonGenesis - AI Image Studio",
+  "description": "A glossy, futuristic image generation and editing suite powered by Gemini Nano Banana models. Transform text to structured JSON prompts and edit images with natural language.",
+  "requestFramePermissions": []
+}
